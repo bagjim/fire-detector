@@ -1,4 +1,4 @@
-# fire-detector
+# vibrating fire-detector
 Goal of this project was to develop a simple prototype which is working smoothly!
 Used HW: Arduino Uno, Microphone sensor KY-038, RGB, Vibration Motor, Joystick
 Prototype realizes the following uses cases: Microphone sensor recognizes and differentiates three acoustic sounds: standard fire alarm, # doorbell and random environmental noises.
